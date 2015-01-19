@@ -1,0 +1,1 @@
+lib /def:dui70_32.def /out:dui70_32.lib
